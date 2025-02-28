@@ -13,6 +13,6 @@ Ensure you have the following installed on your system:
 
 ### **2. Clone the Repository**
 ```sh
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Orophil/Pokemon-App.git
 ## Navigate into the Project
  
