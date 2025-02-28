@@ -42,8 +42,7 @@ Ensure you have the following installed on your system:
 - **Node.js** (Download: [https://nodejs.org/](https://nodejs.org/))
 - **Git** (Download: [https://git-scm.com/](https://git-scm.com/))
 - select the origin from main to master 
-### **2. Clone the Repository**
-git clone https://github.com/Orophil/Pokemon-App.git
+### **2. Download the project from master branch**
 ### **3.navigate to your folder **
 cd your app
 ### *4*. Install dependencies**
