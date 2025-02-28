@@ -43,7 +43,11 @@ Ensure you have the following installed on your system:
 - **Git** (Download: [https://git-scm.com/](https://git-scm.com/))
 
 ### **2. Clone the Repository**
-```sh
 git clone https://github.com/Orophil/Pokemon-App.git
-## Navigate into the Project
+### **3.navigate to your folder **
+cd your app
+### *4*. Install dependencies**
+npm install
+### **5. start the development server**
+npm run dev
  
