@@ -3,7 +3,7 @@
 # Vite React App 🚀
 
 This is a **Vite + React** application for fast and efficient development.
-select the origin from main to master 
+
 ### **Folder structure**
 cd your-app
 ├── node_modules/     # Dependencies
@@ -41,7 +41,7 @@ cd your-app
 Ensure you have the following installed on your system:
 - **Node.js** (Download: [https://nodejs.org/](https://nodejs.org/))
 - **Git** (Download: [https://git-scm.com/](https://git-scm.com/))
-
+- select the origin from main to master 
 ### **2. Clone the Repository**
 git clone https://github.com/Orophil/Pokemon-App.git
 ### **3.navigate to your folder **
